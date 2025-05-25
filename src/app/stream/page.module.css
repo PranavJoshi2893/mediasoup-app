@@ -1,0 +1,20 @@
+.wrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.video {
+    width: 22rem;
+    border: 1px solid rgba(0, 0, 0, 0.12)
+}
+
+.btn_section {
+    width: 22rem;
+    padding: 1rem 0rem;
+    display: flex;
+    justify-content: space-between;
+}
